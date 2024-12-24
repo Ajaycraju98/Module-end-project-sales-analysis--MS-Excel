@@ -1,0 +1,4 @@
+# Module-end-project-sales-analysis--MS-Excel
+This project involves uncleaned data and to analyse the purchasing behaviour of customers towards the bike using MS Excel
+Microsoft Excel, developed by Microsoft Corporation, is a spreadsheet program that allows us to store, organize, and analyze information.Excel's versatility extends to its customization options, allowing users to tailor .the appearance and functionality to meet their specific needs.This project involves uncleaned data and to analyse the purchasing behaviour of customers towards the bike.The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.   Utilizing Excel's pivot tables and charting features, we've created visualizations to uncover trends and insights related to different aspects of the dataset. 
+The project culminates in a visual dashboard created  within Excel. Using  this dashboard to understand  about an  overview of the sales data .
